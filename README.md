@@ -8,25 +8,12 @@
 
 </div>
 
-<br/>
-
 ![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science%20Student-6A0DAD?style=flat-square&logo=googlescholar&logoColor=white)
-![University](https://img.shields.io/badge/Srinivas%20Institute%20of%20Technology-Class%20of%202027-6A0DAD?style=flat-square&logo=academia&logoColor=white)
-![Location](https://img.shields.io/badge/Based%20in-Mangalore%2C%20Karnataka%2C%20India-8A2BE2?style=flat-square&logo=googlemaps&logoColor=white)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank-kodiya)
-[![Email](https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashankkodiyashashank@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashank-kodiya)
-
-
-<br/>
+![College](https://img.shields.io/badge/Srinivas%20Institute%20of%20Technology-6A0DAD?style=flat-square&logo=academia&logoColor=white)
+![Batch](https://img.shields.io/badge/Class%20of-2027-7B1FA2?style=flat-square&logo=graduationcap&logoColor=white)
+![Location](https://img.shields.io/badge/Mangalore-Karnataka%2C%20India-8A2BE2?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
-
----
-
 
 ## 🟣 Tech Stack
 
@@ -45,9 +32,6 @@
 **Cloud, DevOps & Tooling**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,aws&theme=dark" />
-
----
-
 
 
 
